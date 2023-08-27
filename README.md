@@ -1,7 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320"/>
-
-
+ 
+<h1>
+  Hey there! I am Rafael!
+  Nice to meet you! 
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>
+</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rafael-agashirinov-973116253/">
@@ -20,15 +23,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=RafaelBlackwood&style=flat-square&color=blue" alt="" width ="150"/>
 
-<h1>
-  Hey there! 
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>
-</h1>
+
 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="400"/>
+ <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320"/>
 </div>
 
 ---
