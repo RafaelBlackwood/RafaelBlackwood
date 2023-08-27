@@ -44,6 +44,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-agashirinov-973116253/)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafaelBlackwood)](https://github.com/ryo-ma/github-profile-trophy)
+
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -61,9 +64,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelBalckwood&theme=2077)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBlackwood&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelBlackwood&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelBlackwood&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelBlackwood&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelBlackwood&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelBlackwood&theme=aura&utcOffset=8)
 
 ---
 
