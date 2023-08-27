@@ -18,5 +18,5 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=RafaelBlackwood&style=flat-square&color=blue" alt="" width ="200"/>
+<img src="https://komarev.com/ghpvc/?username=RafaelBlackwood&style=flat-square&color=blue" alt="" width ="10000"/>
 </div>
