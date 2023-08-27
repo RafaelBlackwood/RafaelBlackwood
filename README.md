@@ -57,5 +57,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="50" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="50" height="60"/>&nbsp;
  
+
+---
+
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelBalckwood&theme=2077)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBlackwood&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
   
 </div>
