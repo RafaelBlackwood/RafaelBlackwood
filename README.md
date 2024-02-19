@@ -7,7 +7,7 @@
 </h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rafael-agashirinov-973116253/">
+  <a href="https://www.linkedin.com/in/rafael-aghashirinov">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -42,7 +42,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on LeetCode , read tech articles and doing sports to stay in fit. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-agashirinov-973116253/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-aghashirinov)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RafaelBlackwood)](https://github.com/ryo-ma/github-profile-trophy)
