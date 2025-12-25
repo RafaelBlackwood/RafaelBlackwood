@@ -34,9 +34,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan (Currently located in Austria).
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan (Currently located in Poland).
 
-- :telescope: I am a student at the University of Klagenfurt, pursuing a Master's degree in Computer Science.  I aspire to become a Software Developer.
+- :telescope: I am a student at the Technical University of Lodz, pursuing a Master's degree in Computer Science.  I aspire to become a Software Developer.
 
 - :seedling: I have experience working with various programming languages, such as C++, Java, C#, Python, Kotlin and SQL. However, at the moment, I am focusing my attention on Java and I am exploring Technical Content Writing.
 
