@@ -45,7 +45,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-aghashirinov)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RafaelBlackwood)](https://github.com/ryo-ma/github-profile-trophy)
 
   ---
 
